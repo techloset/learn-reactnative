@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "62638103900",
+    "project_id": "smtp-firebase-learning",
+    "storage_bucket": "smtp-firebase-learning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62638103900:android:ed47575d89afb425f1f599",
+        "android_client_info": {
+          "package_name": "com.class04"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62638103900-9nrdiv4jd8djil2eem0tcn8t99c55tuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtPMpkW4F6BaNOJWt-JcT9Qj0dT_0Cczo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62638103900-9nrdiv4jd8djil2eem0tcn8t99c55tuq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "62638103900-o1hqro1v2od268i01vl7n48u8kb8ul99.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tourapp.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
